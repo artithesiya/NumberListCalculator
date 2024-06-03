@@ -20,10 +20,3 @@ To get started with this project, clone the repository and open it in Android St
 
 1. Enter comma-separated numbers in each input field.
 2. Click the "Calculate" button to see the results.
-
-
-Contributions are welcome! Fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.

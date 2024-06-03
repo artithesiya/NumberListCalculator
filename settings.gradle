@@ -1,0 +1,2 @@
+rootProject.name = "NumberListCalculator"
+include ':app'
